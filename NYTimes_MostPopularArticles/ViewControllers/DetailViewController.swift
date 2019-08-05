@@ -53,3 +53,6 @@ class DetailViewController: UIViewController {
 
 
 // this change is made at branchFromMaster branch 
+
+
+//changes from branch2
